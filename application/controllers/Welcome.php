@@ -13,5 +13,9 @@ class Welcome extends CI_Controller {
     function hello() {
         echo 'hello';
     }
+    
+    function update_3(){
+        
+    }
 
 }
