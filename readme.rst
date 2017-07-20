@@ -1,0 +1,1 @@
+Fresh Codeigniter installation withour user Guide
