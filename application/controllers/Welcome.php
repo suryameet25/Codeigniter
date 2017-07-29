@@ -6,6 +6,8 @@ class Welcome extends CI_Controller {
 
 
     
+    
+    
     public function index() {
         $this->load->view('welcome_message');
     }
@@ -15,6 +17,14 @@ class Welcome extends CI_Controller {
     }
     
     function update_3(){
+        
+    }
+
+    function update_3() {
+        
+    }
+
+    function welcome1() {
         
     }
 
